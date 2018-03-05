@@ -3,7 +3,7 @@ Mathematical library that includes a series of functions with different implemen
 
 ## VarEMU installation
 
-[VarEMU](https://github.com/nesl/varemu) is an emulation testbed for Variability-Aware Software that allow us to build and run application in an ARM architecture. To build and run this library properly is a pre-requisite to install this tool following all the instructions in the repository.
+[VarEMU](https://github.com/nesl/varemu) is an emulation testbed for Variability-Aware Software that allow us to build and run application in an ARM architecture. To build and run this examples properly is a pre-requisite to install this tool following all the instructions in the repository.
 
 ## Quick build and run
 
